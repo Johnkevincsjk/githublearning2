@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+<style>
+
+  .main{
+    background-color: lightcoral;
+  }
+
+
+</style>
+  
+</head>
+<body>
+  <form>
+
+<label style="background-color: cadetblue;" for="Email">Email</label><br>
+<input style="background-color: cadetblue;" type="email" name="" id="Email"><br>
+<label style="background-color: chocolate;" for="Password">Password</label><br>
+<input style="background-color: chocolate;"  type="Password" name="" id="Password"><br>
+<label class="main" for="Firstname">Firstname</label><br>
+<input class="main" type="Firstname" name="" id="Firstname"><br>
+<label class="main" for="Lastname">Lastname</label><br>
+<input class="main type="Lastname" name="" id="Lastname">
+
+
+
+
+
+
+
+
+
+  </form>
+</body>
+</html>
