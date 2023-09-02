@@ -1,3 +1,1 @@
-var a = 3634647;
-var b = 33233;
-console.log(a+b);
+
