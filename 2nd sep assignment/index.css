@@ -1,0 +1,21 @@
+body{
+background-image: url(Image/pexels-quintin-gellar-313782.jpg);
+background-size: 3000px;
+background-position: center;
+   
+}
+.box-part{
+    background-color: black;
+    color: aliceblue;
+    margin: 50px 50px;
+    padding: 5px 5px;
+
+}
+i{
+    padding: 10px 10px 5px 10px;
+    color: dodgerblue;
+    
+}
+a{
+    border-bottom: 2px solid rgb(81, 81, 237);
+}
