@@ -131,7 +131,7 @@ h1{
 
 .card-img>img{
   width: 200px;
-  border-radius: 20px;
+  border-radius: 50%;
   border: 5px solid rgba(0, 0, 0, 0.447);
 }
 .img-size{
@@ -166,5 +166,72 @@ h1{
   gap: 20px;
   margin: 20px;
   
+  
+}
+.working{
+  
+  color: rgb(255, 119, 0);
+  text-align: center;
+  margin: 100px;
+  box-shadow: 5px 5px 5px #ed8f02;
+  
+  
+}
+.working1{
+  
+  display: flex;
+  justify-content: space-evenly;
+  
+  
+}
+.dis{
+  
+  border-right: 1px solid #555;
+  padding-right: 50px;
+  
+}
+.live{
+  border-right: 1px solid #555;
+  padding-right: 80px;
+  
+}
+.footer{
+  background-color: black;
+  height: 400px;
+  
+ 
+}
+.footer-box{
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid #555;
+  border-bottom: 1px solid #555;
+  height: 200px;
+  margin: 150px;
+  text-align: center;
+  
+
+}
+.footer-cards{
+  color: white;
+  
+}
+.footer-cards>p{
+  color: #555;
+}
+.footer-cards1{
+  color: #555;
+  margin-right: 40px;
+
+}
+.footer-cards1>input{
+  background-color: #282828;
+  border-radius: 5px;
+  height: 40px;
+  width: 200px;
+}
+.footer-cards1>b{
+  background-color: orangered;
+  border-radius: 5px;
   
 }
