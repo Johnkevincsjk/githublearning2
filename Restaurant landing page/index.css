@@ -198,7 +198,7 @@ h1{
 .footer{
   background-color: black;
   height: 400px;
-  
+  padding-top: 1px;
  
 }
 .footer-box{
@@ -233,5 +233,6 @@ h1{
 .footer-cards1>b{
   background-color: orangered;
   border-radius: 5px;
+  
   
 }
